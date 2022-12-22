@@ -1,0 +1,190 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    text-align: center;
+    background-image: url(Z0dU.gif);
+
+}
+.buttons{
+    
+    margin: 80px auto;
+    
+    height: 500px;
+    width: 800px;
+
+}
+button{
+    background-image: url(hi.jpeg);
+    background-color: #dceee7;
+    width: 140px;
+    height: 140px;
+    border: none;
+    border-radius: 50%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    box-shadow: 5px 10px 18px 20px rgb(20, 24, 27);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-style: normal;
+    font-weight: bolder;
+    color: rgb(224, 13, 13);
+     padding:1px 3px 2px 2px;    
+}
+
+
+.kick3{
+background-image: url(kick.jpg);
+
+position: absolute;
+border-radius: 89%;
+width: 160px;
+bottom: 200px;
+left: 500px;
+
+
+}
+.tom2{
+position: absolute;
+border-radius: 90%;
+width: 150px;
+top: 250px;
+left: 400px;
+}
+.tom1{
+position: absolute;
+border-radius: 90%;
+width: 170px;
+top: 320px;
+left: 330px;
+}
+.tom{
+background-image: url(images.jpeg);
+
+
+}
+.tom3{
+position: absolute;
+border-radius: 150%;
+right:400px;
+top: 300px;
+}
+.crash{
+background-image: url(crasshh.jpg);
+font-size: larger;
+font-style: normal;
+font-weight: bolder;
+color: rgb(100, 48, 0);
+padding:1px 3px 2px 2px;
+
+}
+.crash6{
+position: absolute;
+width: 180px;
+top: 300px;
+right: 300px;
+}
+.crash7{
+position: absolute;
+width: 170px;
+top:400px;
+right: 300px;
+}
+.crash5{
+position: absolute;
+height: 200px;
+width: 250px;
+top: 200px;
+right: 300px;
+}
+.crash4{
+position: absolute;
+width: 160px;
+top: 130px;
+right: 400px;
+}
+.crash3{
+position: absolute;
+width: 160px;
+height: 200px;
+top: 140px;
+left: 360px;
+}
+.crash2{
+position: absolute;
+border-radius: 60%;
+height: 200px;
+width: 300;
+top: 300px;
+left: 260px;
+}
+.crash1{
+width:180px;
+visibility: hidden;
+}
+.one{
+width: 200px;
+position: relative;
+text-align: center;
+top: 330px;
+}
+.two{
+    width: 200px;
+    position: relative;
+    text-align: center;
+    top: 330px;
+
+}
+
+.two:hover {
+background-color: steelblue;
+color: white;
+background-image: none;
+border: none;
+background-color: #f038ff;
+-webkit-box-shadow: 10px 10px 99px 6px rgba(240, 56, 255, 1);
+-moz-box-shadow: 10px 10px 99px 6px rgba(240, 56, 255, 1);
+box-shadow: 10px 10px 99px 6px rgba(240, 56, 255, 1);
+}
+.one:hover {
+background-color: steelblue;
+color: white;
+background-image: none;
+border: none;
+background-color: #4cc9f0;
+-webkit-box-shadow: 10px 10px 99px 6px rgba(76,201,240,1);
+-moz-box-shadow: 10px 10px 99px 6px rgba(76,201,240,1);
+box-shadow: 10px 10px 99px 6px rgba(76,201,240,1);
+}
+.crash:hover {
+background-color: rgb(250, 215, 18);
+color: white;
+background-image: none;
+border: none;
+background-color: #f7d725;
+-webkit-box-shadow: 10px 10px 99px 6px rgb(252, 217, 22);
+-moz-box-shadow: 10px 10px 99px 6px rgb(237, 252, 26);
+box-shadow: 10px 10px 99px 6px rgb(247, 225, 27);
+}  
+.tom:hover{
+background-color: rgb(192, 120, 141);
+color: white;
+background-image: none;
+border: none;
+background-color: #e6a6d8;
+-webkit-box-shadow: 10px 10px 99px 6px rgb(195, 148, 209);
+-moz-box-shadow: 10px 10px 99px 6px rgb(224, 148, 240);
+box-shadow: 10px 10px 99px 6px rgb(229, 148, 229);
+}
+.kick3:hover{
+background-color: steelblue;
+color: white;
+background-image: none;
+border: none;
+background-color: #544cbe;
+-webkit-box-shadow: 10px 10px 99px 6px rgba(240, 56, 255, 1);
+-moz-box-shadow: 10px 10px 99px 6px rgba(240, 56, 255, 1);
+box-shadow: 10px 10px 99px 6px rgba(240, 56, 255, 1);
+}

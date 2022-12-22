@@ -1,0 +1,12 @@
+body{
+    background-image: url(inde2.back.jpg);
+    text-align: center;
+}
+.gif{
+     margin:150px auto;
+     width: 480px;
+     height: 270px;
+     background-image: url(200751.gif);
+     border-radius: 50%;
+     box-shadow: 5px 10px 18px 20px rgb(240, 139, 45);
+}
